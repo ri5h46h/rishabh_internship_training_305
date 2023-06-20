@@ -1,0 +1,20 @@
+<bookstore>
+  <book1>
+    <title>Everyday Italian</title>
+    <author>rishabh narayan</author>
+    <year>2005</year>
+    <price>300</price>
+  </book1>
+  <book2>
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>300</price>
+  </book2>
+  <book3>
+    <title>good vibe good life</title>
+    <author>hail hitler</author>
+    <year>2003</year>
+    <price>400</price>
+  </book3>
+</bookstore>
